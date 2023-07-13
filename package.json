@@ -1,0 +1,16 @@
+{
+    "name": "typescript-inheritance",
+    "version": "1.0.0",
+    "description": "Demonstration of TypeScript inheritance",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "tsc --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.1.6"
+    }
+}
